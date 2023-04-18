@@ -1,0 +1,8 @@
+<resources>
+    <string name="bilgilerimiGosterUygulaması">Bilgilerimi Göster Uygulaması</string>
+    <string name="app_name">Bilgilerimi Goster</string>
+    <string name="isminiziGirin">Adınızı ve Soyadınızı Girin</string>
+    <string name="bilgilerimiGoster">Bilgilerimi Göster</string>
+    <string name="bilgiSonuclari">Bilginiz Burada Görüntelenecektir</string>
+
+</resources>
